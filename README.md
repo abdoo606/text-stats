@@ -20,3 +20,7 @@ pytest projects/21-text-stats -q
 - Non-Latin scripts fall back to a length-based estimate instead of crashing
 - Stopword-aware keyword extraction for both English and Arabic
 - Lexicon sentiment with a neutral band instead of a fake score
+
+## Repository
+- GitHub: https://github.com/{owner}/text-stats
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
